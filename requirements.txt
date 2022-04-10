@@ -1,0 +1,8 @@
+selenium
+cloudscraper
+bs4
+numpy
+lxml
+colorama
+pandas
+tabulate
